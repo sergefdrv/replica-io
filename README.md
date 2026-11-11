@@ -53,14 +53,19 @@ A few ways to follow along and get involved:
 [discord-replica-io]: https://discord.replica-io.dev
 [youtube-replica-io]: https://www.youtube.com/@Replica_IO
 
-## ❤️ Sponsors
+## ❤️ Support
 
-Supported through the [DYOR][by-dyor] funding program by BlueYard
-Capital.
+[<img align="left" alt="BlueYard Capital" src="https://replica-io.dev/img/blueyard-logo.jpg" width="48px" />](https://www.blueyard.com)
+The research was partly supported through the
+[DYOR][by-dyor]&nbsp;funding program by BlueYard&nbsp;Capital.
+<br clear="left" />
 
-[<img alt="BlueYard Capital" src="https://replica-io.dev/img/blueyard-logo.jpg" width="64px" />](https://www.blueyard.com)
+Share the [vision][vision] and see potential in this work? Let's [get
+in touch][contact].
 
 [by-dyor]: https://blueyard.medium.com/announcing-the-blueyard-dyor-do-your-own-research-funding-program-9be5f2f23d37
+[vision]: https://replica-io.dev/about
+[contact]: https://replica-io.dev/#contact-email
 
 ## ⚖️ License
 
